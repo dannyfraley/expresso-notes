@@ -1,3 +1,7 @@
+* {
+  border-radius: 0 !important;
+}
+
 html, body {
   height: 100%;
   margin: 0;
@@ -68,3 +72,96 @@ html, body {
   padding: 20px;
   cursor: pointer;
 }
+.navbar-brand {
+  font-family: 'Black Ops One', cursive;
+  color: #edf5e1 !important;
+  font-size: 40px;
+  margin-top: -10px;
+  margin-bottom: -10px;
+}
+.navbar {
+  background-color: #05386b !important
+}
+.noteColumnBG {
+  background-color: #8ee4af;
+}
+.list-group-item {
+  margin-top: 10px;
+  background-color: #05386b !important;
+  color: #edf5e1;
+  font-family: 'Alfa Slab One', cursive;
+}
+.list-container {
+  background-color: white;
+}
+::placeholder {
+  color: #05386b;
+  opacity: 1;
+}
+
+:-ms-input-placeholder { /* Internet Explorer 10-11 */
+  color: #05386b;
+}
+
+::-ms-input-placeholder { /* Microsoft Edge */
+  color: #05386b;
+}
+
+.noteBody {
+  background-color: white;
+  color: #05386b;
+  font-family: 'Alfa Slab One', cursive;
+}
+.note-title {
+  font-family: 'Alfa Slab One', cursive;
+  color: #379683;
+}
+.expressoLogo {
+  font-family: 'Black Ops One', cursive;
+  font-size: 60px;
+  color: #edf5e1;
+}
+
+.mt-4 {
+  color: #8ee4af;
+}
+body {
+  background-color: #5cdb95;
+}
+
+.jumbotron {
+  background-color: #05386b;
+}
+
+.text-danger {
+  color: #5cdb95 !important;
+}
+.new-note, .save-note {
+  color: #5cdb95 !important;
+}
+.btn-primary {
+  background-color: #8ee4af;
+  color: #05386b;
+  font-family: 'Alfa Slab One', cursive;
+  border: none;
+}
+@keyframes glowing {
+  0% {
+    background-color: #8ee4af;
+    box-shadow: 0 0 5px #8ee4af;
+  }
+  50% {
+    background-color: #5cdb95;
+    box-shadow: 0 0 20px #5cdb95;
+  }
+  100% {
+    background-color: #8ee4af;
+    box-shadow: 0 0 5px #8ee4af;
+  }
+}
+.btn-primary {
+  animation: glowing 1300ms infinite;
+}
+/* font-family: 'Alfa Slab One', cursive;
+font-family: 'Black Ops One', cursive;
+font-family: 'Patua One', cursive; */
