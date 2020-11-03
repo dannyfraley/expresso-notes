@@ -4,8 +4,10 @@ var uuid = require("uuid");
 var fs = require('fs');
 
 router.get("/api/notes", function (req, res) {
-    res.json(db)
-})
+    fs.readFile("./db/db.json", (err, data) => {
+        res.json(JSON.parse(data));
+       });
+     });
 
 router.post("/api/notes", function (req, res) {
     var newNote = {
