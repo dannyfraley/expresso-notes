@@ -41,6 +41,6 @@ Testing performed in VS Code, manually by Danny Fraley.
 ## Questions
 For question about using this application, please contact me at one of the links below.
 
-<a href='https://www.github.com/dannyfraley'>Github</a>
+<a href='https://www.github.com/dannyfraley'>github.com/dannyfraley</a>
 
 <a href='mailto:dannyfraley@gmail.com'>dannyfraley@gmail.com</a>
