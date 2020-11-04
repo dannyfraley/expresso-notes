@@ -39,6 +39,8 @@ Re:Mind is an application that can be used to write, save, and delete notes. Thi
 
 ![remindScreenshot5](./assets/remindScreenshot5.png)
 
+![remindScreenshot6](./assets/remindScreenshot6.png)
+
 
 ## License ![License](https://img.shields.io/badge/LICENSE-MIT-red.svg)
 This application has been created under the MIT License license.
