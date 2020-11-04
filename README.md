@@ -37,8 +37,6 @@ Re:Mind is an application that can be used to write, save, and delete notes. Thi
 
 ![remindScreenshot4](./assets/remindScreenshot4.png)
 
-![remindScreenshot5](./assets/remindScreenshot5.png)
-
 ![remindScreenshot6](./assets/remindScreenshot6.png)
 
 
