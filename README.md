@@ -29,6 +29,17 @@ Re:Mind is an application that can be used to write, save, and delete notes. Thi
 3. Saved notes will update in the left column. You can access them again at any time by clicking on them.
 4. To delete the note, you can click on the `delete` trashcan icon on the note.
 
+![remindScreenshot1](./assets/remindScreenshot1.png)
+
+![remindScreenshot2](./assets/remindScreenshot2.png)
+
+![remindScreenshot3](./assets/remindScreenshot3.png)
+
+![remindScreenshot4](./assets/remindScreenshot4.png)
+
+![remindScreenshot5](./assets/remindScreenshot5.png)
+
+
 ## License ![License](https://img.shields.io/badge/LICENSE-MIT-red.svg)
 This application has been created under the MIT License license.
 
